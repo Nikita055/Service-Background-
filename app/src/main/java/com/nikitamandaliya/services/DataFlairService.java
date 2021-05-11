@@ -9,7 +9,7 @@ import android.provider.Settings;
 import android.widget.Toast;
 
 import androidx.annotation.Nullable;
-
+//https://data-flair.training/blogs/android-service-tutorial/
 public class DataFlairService extends Service {
     private MediaPlayer Player;
 
